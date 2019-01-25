@@ -1,0 +1,3 @@
+/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles/edit_cache.dir
+/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles/rebuild_cache.dir
+/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles/JetPack_JoyRide.dir
