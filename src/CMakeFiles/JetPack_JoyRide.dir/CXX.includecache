@@ -6,105 +6,105 @@
 
 #IncludeRegexTransform: 
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/ball.cpp
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/ball.cpp
 ball.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/ball.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/ball.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/ball.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/ball.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/balloon.cpp
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/balloon.cpp
 balloon.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/balloon.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/balloon.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/balloon.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/balloon.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/boomerang.cpp
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/boomerang.cpp
 boomerang.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/boomerang.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/boomerang.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/boomerang.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/boomerang.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/coin.cpp
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/coin.cpp
 coin.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/coin.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/coin.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 math.h
 -
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/coin.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/coin.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/color.cpp
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/color.cpp
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/diamond.cpp
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/diamond.cpp
 diamond.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/diamond.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/diamond.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 math.h
 -
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/diamond.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/diamond.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/display.cpp
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/display.cpp
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 display.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/display.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/display.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/display.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/display.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/dragon.cpp
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/dragon.cpp
 dragon.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/dragon.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/dragon.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/dragon.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/dragon.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/fixedbeam.cpp
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/fixedbeam.cpp
 fixedbeam.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/fixedbeam.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/fixedbeam.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/fixedbeam.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/fixedbeam.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/flash.cpp
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/flash.cpp
 flash.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/flash.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/flash.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/flash.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/flash.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/input.cpp
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/input.cpp
 iostream
 -
 cmath
@@ -124,53 +124,53 @@ glm/gtx/transform.hpp
 glm/gtc/matrix_transform.hpp
 -
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/magnet.cpp
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/magnet.cpp
 magnet.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/magnet.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/magnet.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/magnet.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/magnet.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.cpp
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.cpp
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 timer.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/timer.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/timer.h
 ball.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/ball.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/ball.h
 platform.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/platform.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/platform.h
 coin.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/coin.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/coin.h
 fixedbeam.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/fixedbeam.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/fixedbeam.h
 movingbeam.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/movingbeam.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/movingbeam.h
 diamond.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/diamond.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/diamond.h
 magnet.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/magnet.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/magnet.h
 balloon.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/balloon.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/balloon.h
 boomerang.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/boomerang.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/boomerang.h
 piggy.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/piggy.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/piggy.h
 flash.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/flash.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/flash.h
 dragon.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/dragon.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/dragon.h
 ring.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/ring.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/ring.h
 display.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/display.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/display.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 iostream
 -
 cmath
@@ -194,17 +194,17 @@ glm/gtx/transform.hpp
 glm/gtc/matrix_transform.hpp
 -
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/movingbeam.cpp
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/movingbeam.cpp
 movingbeam.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/movingbeam.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/movingbeam.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/movingbeam.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/movingbeam.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/nonedit.cpp
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/nonedit.cpp
 iostream
 -
 cmath
@@ -224,9 +224,9 @@ glm/gtx/transform.hpp
 glm/gtc/matrix_transform.hpp
 -
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/other_handlers.cpp
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/other_handlers.cpp
 iostream
 -
 cmath
@@ -246,45 +246,45 @@ glm/gtx/transform.hpp
 glm/gtc/matrix_transform.hpp
 -
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/piggy.cpp
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/piggy.cpp
 piggy.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/piggy.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/piggy.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/piggy.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/piggy.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/platform.cpp
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/platform.cpp
 platform.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/platform.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/platform.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/platform.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/platform.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/ring.cpp
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/ring.cpp
 ring.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/ring.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/ring.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 math.h
 -
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/ring.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/ring.h
 main.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/main.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.h
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/timer.cpp
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/timer.cpp
 timer.h
-/home/vaibhav/Assignments/Graphics/1/JJ/src/timer.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/timer.h
 GLFW/glfw3.h
 -
 
-/home/vaibhav/Assignments/Graphics/1/JJ/src/timer.h
+/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/timer.h
 

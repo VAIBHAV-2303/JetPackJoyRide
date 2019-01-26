@@ -15,6 +15,10 @@ public:
     double speedx;
 private:
     VAO *object;
+    VAO *eyes;
+    VAO *pupil;
+    VAO *nose;
+    VAO *nostrils;
 };
 
 #endif // PIGGY_H

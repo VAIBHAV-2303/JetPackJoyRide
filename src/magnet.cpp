@@ -29,7 +29,7 @@ Magnet::Magnet(float x, float y) {
         10.0, 15.0, 0.0,
         15.0, 15.0, 0.0,
     };
-    this->object = create3DObject(GL_TRIANGLES, 6*3, vertex_buffer_data, COLOR_RED, GL_FILL);
+    this->object = create3DObject(GL_TRIANGLES, 6*3, vertex_buffer_data, COLOR_MAGNET, GL_FILL);
 }
 
 void Magnet::draw(glm::mat4 VP) {

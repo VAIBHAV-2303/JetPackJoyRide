@@ -72,6 +72,9 @@ void Ball::tick() {
     this->position.x +=speedx;
     this->position.x=std::max(-200.0f, this->position.x);
     this->position.x=std::min(290.0f, this->position.x);
+    if(this->position.x==290.0){
+        this->speedx=0;
+    }
     this->position.y -= speed;
     this->position.y=std::min(290.0f, this->position.y);
     this->position.y=std::max(-140.0f, this->position.y);

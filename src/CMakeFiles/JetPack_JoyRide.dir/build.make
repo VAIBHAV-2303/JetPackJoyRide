@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/vaibhav/Assignments/Graphics/1/JJ
+CMAKE_SOURCE_DIR = /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/vaibhav/Assignments/Graphics/1/JJ/src
+CMAKE_BINARY_DIR = /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src
 
 # Include any dependencies generated for this target.
 include CMakeFiles/JetPack_JoyRide.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/JetPack_JoyRide.dir/flags.make
 
 CMakeFiles/JetPack_JoyRide.dir/ring.cpp.o: CMakeFiles/JetPack_JoyRide.dir/flags.make
 CMakeFiles/JetPack_JoyRide.dir/ring.cpp.o: ring.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/ring.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/ring.cpp.o -c /home/vaibhav/Assignments/Graphics/1/JJ/src/ring.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/ring.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/ring.cpp.o -c /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/ring.cpp
 
 CMakeFiles/JetPack_JoyRide.dir/ring.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/JetPack_JoyRide.dir/ring.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/JJ/src/ring.cpp > CMakeFiles/JetPack_JoyRide.dir/ring.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/ring.cpp > CMakeFiles/JetPack_JoyRide.dir/ring.cpp.i
 
 CMakeFiles/JetPack_JoyRide.dir/ring.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/JetPack_JoyRide.dir/ring.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/JJ/src/ring.cpp -o CMakeFiles/JetPack_JoyRide.dir/ring.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/ring.cpp -o CMakeFiles/JetPack_JoyRide.dir/ring.cpp.s
 
 CMakeFiles/JetPack_JoyRide.dir/ring.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/JetPack_JoyRide.dir/ring.cpp.o.provides.build: CMakeFiles/JetPack_Joy
 
 CMakeFiles/JetPack_JoyRide.dir/balloon.cpp.o: CMakeFiles/JetPack_JoyRide.dir/flags.make
 CMakeFiles/JetPack_JoyRide.dir/balloon.cpp.o: balloon.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/balloon.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/balloon.cpp.o -c /home/vaibhav/Assignments/Graphics/1/JJ/src/balloon.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/balloon.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/balloon.cpp.o -c /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/balloon.cpp
 
 CMakeFiles/JetPack_JoyRide.dir/balloon.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/JetPack_JoyRide.dir/balloon.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/JJ/src/balloon.cpp > CMakeFiles/JetPack_JoyRide.dir/balloon.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/balloon.cpp > CMakeFiles/JetPack_JoyRide.dir/balloon.cpp.i
 
 CMakeFiles/JetPack_JoyRide.dir/balloon.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/JetPack_JoyRide.dir/balloon.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/JJ/src/balloon.cpp -o CMakeFiles/JetPack_JoyRide.dir/balloon.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/balloon.cpp -o CMakeFiles/JetPack_JoyRide.dir/balloon.cpp.s
 
 CMakeFiles/JetPack_JoyRide.dir/balloon.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/JetPack_JoyRide.dir/balloon.cpp.o.provides.build: CMakeFiles/JetPack_
 
 CMakeFiles/JetPack_JoyRide.dir/movingbeam.cpp.o: CMakeFiles/JetPack_JoyRide.dir/flags.make
 CMakeFiles/JetPack_JoyRide.dir/movingbeam.cpp.o: movingbeam.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/movingbeam.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/movingbeam.cpp.o -c /home/vaibhav/Assignments/Graphics/1/JJ/src/movingbeam.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/movingbeam.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/movingbeam.cpp.o -c /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/movingbeam.cpp
 
 CMakeFiles/JetPack_JoyRide.dir/movingbeam.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/JetPack_JoyRide.dir/movingbeam.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/JJ/src/movingbeam.cpp > CMakeFiles/JetPack_JoyRide.dir/movingbeam.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/movingbeam.cpp > CMakeFiles/JetPack_JoyRide.dir/movingbeam.cpp.i
 
 CMakeFiles/JetPack_JoyRide.dir/movingbeam.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/JetPack_JoyRide.dir/movingbeam.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/JJ/src/movingbeam.cpp -o CMakeFiles/JetPack_JoyRide.dir/movingbeam.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/movingbeam.cpp -o CMakeFiles/JetPack_JoyRide.dir/movingbeam.cpp.s
 
 CMakeFiles/JetPack_JoyRide.dir/movingbeam.cpp.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/JetPack_JoyRide.dir/movingbeam.cpp.o.provides.build: CMakeFiles/JetPa
 
 CMakeFiles/JetPack_JoyRide.dir/nonedit.cpp.o: CMakeFiles/JetPack_JoyRide.dir/flags.make
 CMakeFiles/JetPack_JoyRide.dir/nonedit.cpp.o: nonedit.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/nonedit.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/nonedit.cpp.o -c /home/vaibhav/Assignments/Graphics/1/JJ/src/nonedit.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/nonedit.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/nonedit.cpp.o -c /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/nonedit.cpp
 
 CMakeFiles/JetPack_JoyRide.dir/nonedit.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/JetPack_JoyRide.dir/nonedit.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/JJ/src/nonedit.cpp > CMakeFiles/JetPack_JoyRide.dir/nonedit.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/nonedit.cpp > CMakeFiles/JetPack_JoyRide.dir/nonedit.cpp.i
 
 CMakeFiles/JetPack_JoyRide.dir/nonedit.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/JetPack_JoyRide.dir/nonedit.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/JJ/src/nonedit.cpp -o CMakeFiles/JetPack_JoyRide.dir/nonedit.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/nonedit.cpp -o CMakeFiles/JetPack_JoyRide.dir/nonedit.cpp.s
 
 CMakeFiles/JetPack_JoyRide.dir/nonedit.cpp.o.requires:
 
@@ -155,16 +155,16 @@ CMakeFiles/JetPack_JoyRide.dir/nonedit.cpp.o.provides.build: CMakeFiles/JetPack_
 
 CMakeFiles/JetPack_JoyRide.dir/diamond.cpp.o: CMakeFiles/JetPack_JoyRide.dir/flags.make
 CMakeFiles/JetPack_JoyRide.dir/diamond.cpp.o: diamond.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/diamond.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/diamond.cpp.o -c /home/vaibhav/Assignments/Graphics/1/JJ/src/diamond.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/diamond.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/diamond.cpp.o -c /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/diamond.cpp
 
 CMakeFiles/JetPack_JoyRide.dir/diamond.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/JetPack_JoyRide.dir/diamond.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/JJ/src/diamond.cpp > CMakeFiles/JetPack_JoyRide.dir/diamond.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/diamond.cpp > CMakeFiles/JetPack_JoyRide.dir/diamond.cpp.i
 
 CMakeFiles/JetPack_JoyRide.dir/diamond.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/JetPack_JoyRide.dir/diamond.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/JJ/src/diamond.cpp -o CMakeFiles/JetPack_JoyRide.dir/diamond.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/diamond.cpp -o CMakeFiles/JetPack_JoyRide.dir/diamond.cpp.s
 
 CMakeFiles/JetPack_JoyRide.dir/diamond.cpp.o.requires:
 
@@ -179,16 +179,16 @@ CMakeFiles/JetPack_JoyRide.dir/diamond.cpp.o.provides.build: CMakeFiles/JetPack_
 
 CMakeFiles/JetPack_JoyRide.dir/coin.cpp.o: CMakeFiles/JetPack_JoyRide.dir/flags.make
 CMakeFiles/JetPack_JoyRide.dir/coin.cpp.o: coin.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/coin.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/coin.cpp.o -c /home/vaibhav/Assignments/Graphics/1/JJ/src/coin.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/coin.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/coin.cpp.o -c /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/coin.cpp
 
 CMakeFiles/JetPack_JoyRide.dir/coin.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/JetPack_JoyRide.dir/coin.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/JJ/src/coin.cpp > CMakeFiles/JetPack_JoyRide.dir/coin.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/coin.cpp > CMakeFiles/JetPack_JoyRide.dir/coin.cpp.i
 
 CMakeFiles/JetPack_JoyRide.dir/coin.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/JetPack_JoyRide.dir/coin.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/JJ/src/coin.cpp -o CMakeFiles/JetPack_JoyRide.dir/coin.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/coin.cpp -o CMakeFiles/JetPack_JoyRide.dir/coin.cpp.s
 
 CMakeFiles/JetPack_JoyRide.dir/coin.cpp.o.requires:
 
@@ -203,16 +203,16 @@ CMakeFiles/JetPack_JoyRide.dir/coin.cpp.o.provides.build: CMakeFiles/JetPack_Joy
 
 CMakeFiles/JetPack_JoyRide.dir/flash.cpp.o: CMakeFiles/JetPack_JoyRide.dir/flags.make
 CMakeFiles/JetPack_JoyRide.dir/flash.cpp.o: flash.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/flash.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/flash.cpp.o -c /home/vaibhav/Assignments/Graphics/1/JJ/src/flash.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/flash.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/flash.cpp.o -c /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/flash.cpp
 
 CMakeFiles/JetPack_JoyRide.dir/flash.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/JetPack_JoyRide.dir/flash.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/JJ/src/flash.cpp > CMakeFiles/JetPack_JoyRide.dir/flash.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/flash.cpp > CMakeFiles/JetPack_JoyRide.dir/flash.cpp.i
 
 CMakeFiles/JetPack_JoyRide.dir/flash.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/JetPack_JoyRide.dir/flash.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/JJ/src/flash.cpp -o CMakeFiles/JetPack_JoyRide.dir/flash.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/flash.cpp -o CMakeFiles/JetPack_JoyRide.dir/flash.cpp.s
 
 CMakeFiles/JetPack_JoyRide.dir/flash.cpp.o.requires:
 
@@ -227,16 +227,16 @@ CMakeFiles/JetPack_JoyRide.dir/flash.cpp.o.provides.build: CMakeFiles/JetPack_Jo
 
 CMakeFiles/JetPack_JoyRide.dir/color.cpp.o: CMakeFiles/JetPack_JoyRide.dir/flags.make
 CMakeFiles/JetPack_JoyRide.dir/color.cpp.o: color.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/color.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/color.cpp.o -c /home/vaibhav/Assignments/Graphics/1/JJ/src/color.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/color.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/color.cpp.o -c /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/color.cpp
 
 CMakeFiles/JetPack_JoyRide.dir/color.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/JetPack_JoyRide.dir/color.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/JJ/src/color.cpp > CMakeFiles/JetPack_JoyRide.dir/color.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/color.cpp > CMakeFiles/JetPack_JoyRide.dir/color.cpp.i
 
 CMakeFiles/JetPack_JoyRide.dir/color.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/JetPack_JoyRide.dir/color.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/JJ/src/color.cpp -o CMakeFiles/JetPack_JoyRide.dir/color.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/color.cpp -o CMakeFiles/JetPack_JoyRide.dir/color.cpp.s
 
 CMakeFiles/JetPack_JoyRide.dir/color.cpp.o.requires:
 
@@ -251,16 +251,16 @@ CMakeFiles/JetPack_JoyRide.dir/color.cpp.o.provides.build: CMakeFiles/JetPack_Jo
 
 CMakeFiles/JetPack_JoyRide.dir/display.cpp.o: CMakeFiles/JetPack_JoyRide.dir/flags.make
 CMakeFiles/JetPack_JoyRide.dir/display.cpp.o: display.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/display.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/display.cpp.o -c /home/vaibhav/Assignments/Graphics/1/JJ/src/display.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/display.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/display.cpp.o -c /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/display.cpp
 
 CMakeFiles/JetPack_JoyRide.dir/display.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/JetPack_JoyRide.dir/display.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/JJ/src/display.cpp > CMakeFiles/JetPack_JoyRide.dir/display.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/display.cpp > CMakeFiles/JetPack_JoyRide.dir/display.cpp.i
 
 CMakeFiles/JetPack_JoyRide.dir/display.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/JetPack_JoyRide.dir/display.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/JJ/src/display.cpp -o CMakeFiles/JetPack_JoyRide.dir/display.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/display.cpp -o CMakeFiles/JetPack_JoyRide.dir/display.cpp.s
 
 CMakeFiles/JetPack_JoyRide.dir/display.cpp.o.requires:
 
@@ -275,16 +275,16 @@ CMakeFiles/JetPack_JoyRide.dir/display.cpp.o.provides.build: CMakeFiles/JetPack_
 
 CMakeFiles/JetPack_JoyRide.dir/input.cpp.o: CMakeFiles/JetPack_JoyRide.dir/flags.make
 CMakeFiles/JetPack_JoyRide.dir/input.cpp.o: input.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/input.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/input.cpp.o -c /home/vaibhav/Assignments/Graphics/1/JJ/src/input.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/input.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/input.cpp.o -c /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/input.cpp
 
 CMakeFiles/JetPack_JoyRide.dir/input.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/JetPack_JoyRide.dir/input.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/JJ/src/input.cpp > CMakeFiles/JetPack_JoyRide.dir/input.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/input.cpp > CMakeFiles/JetPack_JoyRide.dir/input.cpp.i
 
 CMakeFiles/JetPack_JoyRide.dir/input.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/JetPack_JoyRide.dir/input.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/JJ/src/input.cpp -o CMakeFiles/JetPack_JoyRide.dir/input.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/input.cpp -o CMakeFiles/JetPack_JoyRide.dir/input.cpp.s
 
 CMakeFiles/JetPack_JoyRide.dir/input.cpp.o.requires:
 
@@ -299,16 +299,16 @@ CMakeFiles/JetPack_JoyRide.dir/input.cpp.o.provides.build: CMakeFiles/JetPack_Jo
 
 CMakeFiles/JetPack_JoyRide.dir/magnet.cpp.o: CMakeFiles/JetPack_JoyRide.dir/flags.make
 CMakeFiles/JetPack_JoyRide.dir/magnet.cpp.o: magnet.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/magnet.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/magnet.cpp.o -c /home/vaibhav/Assignments/Graphics/1/JJ/src/magnet.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/magnet.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/magnet.cpp.o -c /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/magnet.cpp
 
 CMakeFiles/JetPack_JoyRide.dir/magnet.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/JetPack_JoyRide.dir/magnet.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/JJ/src/magnet.cpp > CMakeFiles/JetPack_JoyRide.dir/magnet.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/magnet.cpp > CMakeFiles/JetPack_JoyRide.dir/magnet.cpp.i
 
 CMakeFiles/JetPack_JoyRide.dir/magnet.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/JetPack_JoyRide.dir/magnet.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/JJ/src/magnet.cpp -o CMakeFiles/JetPack_JoyRide.dir/magnet.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/magnet.cpp -o CMakeFiles/JetPack_JoyRide.dir/magnet.cpp.s
 
 CMakeFiles/JetPack_JoyRide.dir/magnet.cpp.o.requires:
 
@@ -323,16 +323,16 @@ CMakeFiles/JetPack_JoyRide.dir/magnet.cpp.o.provides.build: CMakeFiles/JetPack_J
 
 CMakeFiles/JetPack_JoyRide.dir/fixedbeam.cpp.o: CMakeFiles/JetPack_JoyRide.dir/flags.make
 CMakeFiles/JetPack_JoyRide.dir/fixedbeam.cpp.o: fixedbeam.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/fixedbeam.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/fixedbeam.cpp.o -c /home/vaibhav/Assignments/Graphics/1/JJ/src/fixedbeam.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/fixedbeam.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/fixedbeam.cpp.o -c /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/fixedbeam.cpp
 
 CMakeFiles/JetPack_JoyRide.dir/fixedbeam.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/JetPack_JoyRide.dir/fixedbeam.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/JJ/src/fixedbeam.cpp > CMakeFiles/JetPack_JoyRide.dir/fixedbeam.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/fixedbeam.cpp > CMakeFiles/JetPack_JoyRide.dir/fixedbeam.cpp.i
 
 CMakeFiles/JetPack_JoyRide.dir/fixedbeam.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/JetPack_JoyRide.dir/fixedbeam.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/JJ/src/fixedbeam.cpp -o CMakeFiles/JetPack_JoyRide.dir/fixedbeam.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/fixedbeam.cpp -o CMakeFiles/JetPack_JoyRide.dir/fixedbeam.cpp.s
 
 CMakeFiles/JetPack_JoyRide.dir/fixedbeam.cpp.o.requires:
 
@@ -347,16 +347,16 @@ CMakeFiles/JetPack_JoyRide.dir/fixedbeam.cpp.o.provides.build: CMakeFiles/JetPac
 
 CMakeFiles/JetPack_JoyRide.dir/piggy.cpp.o: CMakeFiles/JetPack_JoyRide.dir/flags.make
 CMakeFiles/JetPack_JoyRide.dir/piggy.cpp.o: piggy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/piggy.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/piggy.cpp.o -c /home/vaibhav/Assignments/Graphics/1/JJ/src/piggy.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/piggy.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/piggy.cpp.o -c /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/piggy.cpp
 
 CMakeFiles/JetPack_JoyRide.dir/piggy.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/JetPack_JoyRide.dir/piggy.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/JJ/src/piggy.cpp > CMakeFiles/JetPack_JoyRide.dir/piggy.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/piggy.cpp > CMakeFiles/JetPack_JoyRide.dir/piggy.cpp.i
 
 CMakeFiles/JetPack_JoyRide.dir/piggy.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/JetPack_JoyRide.dir/piggy.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/JJ/src/piggy.cpp -o CMakeFiles/JetPack_JoyRide.dir/piggy.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/piggy.cpp -o CMakeFiles/JetPack_JoyRide.dir/piggy.cpp.s
 
 CMakeFiles/JetPack_JoyRide.dir/piggy.cpp.o.requires:
 
@@ -371,16 +371,16 @@ CMakeFiles/JetPack_JoyRide.dir/piggy.cpp.o.provides.build: CMakeFiles/JetPack_Jo
 
 CMakeFiles/JetPack_JoyRide.dir/timer.cpp.o: CMakeFiles/JetPack_JoyRide.dir/flags.make
 CMakeFiles/JetPack_JoyRide.dir/timer.cpp.o: timer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/timer.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/timer.cpp.o -c /home/vaibhav/Assignments/Graphics/1/JJ/src/timer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/timer.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/timer.cpp.o -c /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/timer.cpp
 
 CMakeFiles/JetPack_JoyRide.dir/timer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/JetPack_JoyRide.dir/timer.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/JJ/src/timer.cpp > CMakeFiles/JetPack_JoyRide.dir/timer.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/timer.cpp > CMakeFiles/JetPack_JoyRide.dir/timer.cpp.i
 
 CMakeFiles/JetPack_JoyRide.dir/timer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/JetPack_JoyRide.dir/timer.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/JJ/src/timer.cpp -o CMakeFiles/JetPack_JoyRide.dir/timer.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/timer.cpp -o CMakeFiles/JetPack_JoyRide.dir/timer.cpp.s
 
 CMakeFiles/JetPack_JoyRide.dir/timer.cpp.o.requires:
 
@@ -395,16 +395,16 @@ CMakeFiles/JetPack_JoyRide.dir/timer.cpp.o.provides.build: CMakeFiles/JetPack_Jo
 
 CMakeFiles/JetPack_JoyRide.dir/dragon.cpp.o: CMakeFiles/JetPack_JoyRide.dir/flags.make
 CMakeFiles/JetPack_JoyRide.dir/dragon.cpp.o: dragon.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/dragon.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/dragon.cpp.o -c /home/vaibhav/Assignments/Graphics/1/JJ/src/dragon.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/dragon.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/dragon.cpp.o -c /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/dragon.cpp
 
 CMakeFiles/JetPack_JoyRide.dir/dragon.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/JetPack_JoyRide.dir/dragon.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/JJ/src/dragon.cpp > CMakeFiles/JetPack_JoyRide.dir/dragon.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/dragon.cpp > CMakeFiles/JetPack_JoyRide.dir/dragon.cpp.i
 
 CMakeFiles/JetPack_JoyRide.dir/dragon.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/JetPack_JoyRide.dir/dragon.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/JJ/src/dragon.cpp -o CMakeFiles/JetPack_JoyRide.dir/dragon.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/dragon.cpp -o CMakeFiles/JetPack_JoyRide.dir/dragon.cpp.s
 
 CMakeFiles/JetPack_JoyRide.dir/dragon.cpp.o.requires:
 
@@ -419,16 +419,16 @@ CMakeFiles/JetPack_JoyRide.dir/dragon.cpp.o.provides.build: CMakeFiles/JetPack_J
 
 CMakeFiles/JetPack_JoyRide.dir/platform.cpp.o: CMakeFiles/JetPack_JoyRide.dir/flags.make
 CMakeFiles/JetPack_JoyRide.dir/platform.cpp.o: platform.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/platform.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/platform.cpp.o -c /home/vaibhav/Assignments/Graphics/1/JJ/src/platform.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/platform.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/platform.cpp.o -c /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/platform.cpp
 
 CMakeFiles/JetPack_JoyRide.dir/platform.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/JetPack_JoyRide.dir/platform.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/JJ/src/platform.cpp > CMakeFiles/JetPack_JoyRide.dir/platform.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/platform.cpp > CMakeFiles/JetPack_JoyRide.dir/platform.cpp.i
 
 CMakeFiles/JetPack_JoyRide.dir/platform.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/JetPack_JoyRide.dir/platform.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/JJ/src/platform.cpp -o CMakeFiles/JetPack_JoyRide.dir/platform.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/platform.cpp -o CMakeFiles/JetPack_JoyRide.dir/platform.cpp.s
 
 CMakeFiles/JetPack_JoyRide.dir/platform.cpp.o.requires:
 
@@ -443,16 +443,16 @@ CMakeFiles/JetPack_JoyRide.dir/platform.cpp.o.provides.build: CMakeFiles/JetPack
 
 CMakeFiles/JetPack_JoyRide.dir/other_handlers.cpp.o: CMakeFiles/JetPack_JoyRide.dir/flags.make
 CMakeFiles/JetPack_JoyRide.dir/other_handlers.cpp.o: other_handlers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/other_handlers.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/other_handlers.cpp.o -c /home/vaibhav/Assignments/Graphics/1/JJ/src/other_handlers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/other_handlers.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/other_handlers.cpp.o -c /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/other_handlers.cpp
 
 CMakeFiles/JetPack_JoyRide.dir/other_handlers.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/JetPack_JoyRide.dir/other_handlers.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/JJ/src/other_handlers.cpp > CMakeFiles/JetPack_JoyRide.dir/other_handlers.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/other_handlers.cpp > CMakeFiles/JetPack_JoyRide.dir/other_handlers.cpp.i
 
 CMakeFiles/JetPack_JoyRide.dir/other_handlers.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/JetPack_JoyRide.dir/other_handlers.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/JJ/src/other_handlers.cpp -o CMakeFiles/JetPack_JoyRide.dir/other_handlers.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/other_handlers.cpp -o CMakeFiles/JetPack_JoyRide.dir/other_handlers.cpp.s
 
 CMakeFiles/JetPack_JoyRide.dir/other_handlers.cpp.o.requires:
 
@@ -467,16 +467,16 @@ CMakeFiles/JetPack_JoyRide.dir/other_handlers.cpp.o.provides.build: CMakeFiles/J
 
 CMakeFiles/JetPack_JoyRide.dir/ball.cpp.o: CMakeFiles/JetPack_JoyRide.dir/flags.make
 CMakeFiles/JetPack_JoyRide.dir/ball.cpp.o: ball.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/ball.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/ball.cpp.o -c /home/vaibhav/Assignments/Graphics/1/JJ/src/ball.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/ball.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/ball.cpp.o -c /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/ball.cpp
 
 CMakeFiles/JetPack_JoyRide.dir/ball.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/JetPack_JoyRide.dir/ball.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/JJ/src/ball.cpp > CMakeFiles/JetPack_JoyRide.dir/ball.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/ball.cpp > CMakeFiles/JetPack_JoyRide.dir/ball.cpp.i
 
 CMakeFiles/JetPack_JoyRide.dir/ball.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/JetPack_JoyRide.dir/ball.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/JJ/src/ball.cpp -o CMakeFiles/JetPack_JoyRide.dir/ball.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/ball.cpp -o CMakeFiles/JetPack_JoyRide.dir/ball.cpp.s
 
 CMakeFiles/JetPack_JoyRide.dir/ball.cpp.o.requires:
 
@@ -491,16 +491,16 @@ CMakeFiles/JetPack_JoyRide.dir/ball.cpp.o.provides.build: CMakeFiles/JetPack_Joy
 
 CMakeFiles/JetPack_JoyRide.dir/main.cpp.o: CMakeFiles/JetPack_JoyRide.dir/flags.make
 CMakeFiles/JetPack_JoyRide.dir/main.cpp.o: main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/main.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/main.cpp.o -c /home/vaibhav/Assignments/Graphics/1/JJ/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/main.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/main.cpp.o -c /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.cpp
 
 CMakeFiles/JetPack_JoyRide.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/JetPack_JoyRide.dir/main.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/JJ/src/main.cpp > CMakeFiles/JetPack_JoyRide.dir/main.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.cpp > CMakeFiles/JetPack_JoyRide.dir/main.cpp.i
 
 CMakeFiles/JetPack_JoyRide.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/JetPack_JoyRide.dir/main.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/JJ/src/main.cpp -o CMakeFiles/JetPack_JoyRide.dir/main.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/main.cpp -o CMakeFiles/JetPack_JoyRide.dir/main.cpp.s
 
 CMakeFiles/JetPack_JoyRide.dir/main.cpp.o.requires:
 
@@ -515,16 +515,16 @@ CMakeFiles/JetPack_JoyRide.dir/main.cpp.o.provides.build: CMakeFiles/JetPack_Joy
 
 CMakeFiles/JetPack_JoyRide.dir/boomerang.cpp.o: CMakeFiles/JetPack_JoyRide.dir/flags.make
 CMakeFiles/JetPack_JoyRide.dir/boomerang.cpp.o: boomerang.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/boomerang.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/boomerang.cpp.o -c /home/vaibhav/Assignments/Graphics/1/JJ/src/boomerang.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/JetPack_JoyRide.dir/boomerang.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/JetPack_JoyRide.dir/boomerang.cpp.o -c /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/boomerang.cpp
 
 CMakeFiles/JetPack_JoyRide.dir/boomerang.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/JetPack_JoyRide.dir/boomerang.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/JJ/src/boomerang.cpp > CMakeFiles/JetPack_JoyRide.dir/boomerang.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/boomerang.cpp > CMakeFiles/JetPack_JoyRide.dir/boomerang.cpp.i
 
 CMakeFiles/JetPack_JoyRide.dir/boomerang.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/JetPack_JoyRide.dir/boomerang.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/JJ/src/boomerang.cpp -o CMakeFiles/JetPack_JoyRide.dir/boomerang.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/boomerang.cpp -o CMakeFiles/JetPack_JoyRide.dir/boomerang.cpp.s
 
 CMakeFiles/JetPack_JoyRide.dir/boomerang.cpp.o.requires:
 
@@ -585,7 +585,7 @@ JetPack_JoyRide: CMakeFiles/JetPack_JoyRide.dir/main.cpp.o
 JetPack_JoyRide: CMakeFiles/JetPack_JoyRide.dir/boomerang.cpp.o
 JetPack_JoyRide: CMakeFiles/JetPack_JoyRide.dir/build.make
 JetPack_JoyRide: CMakeFiles/JetPack_JoyRide.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking CXX executable JetPack_JoyRide"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking CXX executable JetPack_JoyRide"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/JetPack_JoyRide.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -621,6 +621,6 @@ CMakeFiles/JetPack_JoyRide.dir/clean:
 .PHONY : CMakeFiles/JetPack_JoyRide.dir/clean
 
 CMakeFiles/JetPack_JoyRide.dir/depend:
-	cd /home/vaibhav/Assignments/Graphics/1/JJ/src && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/vaibhav/Assignments/Graphics/1/JJ /home/vaibhav/Assignments/Graphics/1/JJ /home/vaibhav/Assignments/Graphics/1/JJ/src /home/vaibhav/Assignments/Graphics/1/JJ/src /home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles/JetPack_JoyRide.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1 /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1 /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles/JetPack_JoyRide.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/JetPack_JoyRide.dir/depend
 

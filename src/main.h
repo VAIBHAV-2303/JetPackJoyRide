@@ -98,5 +98,9 @@ extern const color_t COLOR_PINK;
 extern const color_t COLOR_LIGHT;
 extern const color_t COLOR_DARK_ORANGE;
 extern const color_t COLOR_GREY;
-
+extern const color_t COLOR_MAGNET;
+extern const color_t COLOR_WHITE;
+extern const color_t COLOR_NOSE;
+extern const color_t COLOR_EYES;
+extern const color_t COLOR_NOSTRILS;
 #endif

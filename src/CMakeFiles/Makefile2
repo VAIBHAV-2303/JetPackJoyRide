@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/vaibhav/Assignments/Graphics/1/JJ
+CMAKE_SOURCE_DIR = /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/vaibhav/Assignments/Graphics/1/JJ/src
+CMAKE_BINARY_DIR = /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src
 
 #=============================================================================
 # Target rules for target CMakeFiles/JetPack_JoyRide.dir
@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = /home/vaibhav/Assignments/Graphics/1/JJ/src
 CMakeFiles/JetPack_JoyRide.dir/all:
 	$(MAKE) -f CMakeFiles/JetPack_JoyRide.dir/build.make CMakeFiles/JetPack_JoyRide.dir/depend
 	$(MAKE) -f CMakeFiles/JetPack_JoyRide.dir/build.make CMakeFiles/JetPack_JoyRide.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21 "Built target JetPack_JoyRide"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21 "Built target JetPack_JoyRide"
 .PHONY : CMakeFiles/JetPack_JoyRide.dir/all
 
 # Include target in all.
@@ -76,9 +76,9 @@ all: CMakeFiles/JetPack_JoyRide.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/JetPack_JoyRide.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles 21
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles 21
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/JetPack_JoyRide.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/vaibhav/Assignments/Graphics/1/JJ/src/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/vaibhav/Assignments/Graphics/1/20171005_Assgn1/src/CMakeFiles 0
 .PHONY : CMakeFiles/JetPack_JoyRide.dir/rule
 
 # Convenience name for target.

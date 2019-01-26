@@ -13,69 +13,111 @@ Display::Display(float x, float y, color_t color) {
         13.0f, 0.0f, 0.0f, // triangle 1 : end
         13.0f, 0.0f,0.0f, // triangle 2 : begin
         10.0f,10.0f,0.0f,
-        13.0f, 10.0f,0.0f 
+        13.0f, 10.0f,0.0f,
+        10.0, 10.0, 0.0,
+        13.0, 10.0, 0.0,
+        11.5, 12.0, 0.0,
+        10.0, 0.0, 0.0,
+        13.0, 0.0, 0.0,
+        11.5, -2.0, 0.0
     };
-    this->object[0] = create3DObject(GL_TRIANGLES, 2*3, vertex_buffer_data, color, GL_FILL);
+    this->object[0] = create3DObject(GL_TRIANGLES, 4*3, vertex_buffer_data, color, GL_FILL);
 
     GLfloat vertex_buffer_data1[] = {
-        10.0f,0.0f,0.0f, // triangle 1 : begin
-        10.0f,-10.0f, 0.0f,
-        13.0f, -10.0f, 0.0f, // triangle 1 : end
-        13.0f, -10.0f,0.0f, // triangle 2 : begin
-        10.0f,0.0f,0.0f,
-        13.0f, 0.0f,0.0f         
+      	10.0f,-4.0f,0.0f, // triangle 1 : begin
+        10.0f,-14.0f, 0.0f,
+        13.0f, -14.0f, 0.0f, // triangle 1 : end
+        13.0f, -14.0f,0.0f, // triangle 2 : begin
+        10.0f,-4.0f,0.0f,
+        13.0f, -4.0f,0.0f,
+        10.0, -4.0, 0.0,
+        13.0, -4.0, 0.0,
+        11.5, -2.0, 0.0,
+        10.0, -14.0, 0.0,
+        13.0, -14.0, 0.0,
+        11.5, -16.0, 0.0	           
     };
-    this->object[1] = create3DObject(GL_TRIANGLES, 2*3, vertex_buffer_data1, color, GL_FILL);
+    this->object[1] = create3DObject(GL_TRIANGLES, 4*3, vertex_buffer_data1, color, GL_FILL);
 
     GLfloat vertex_buffer_data2[] = {
-        0.0, -10.0, 0.0, 
-        0.0, -7.0, 0.0,
-        10.0, -10.0, 0.0,
-        10.0, -10.0, 0.0,
-        0.0, -7.0, 0.0,
-        10.0, -7.0, 0.0
+       0.0, -17.0, 0.0, 
+        0.0, -14.0, 0.0,
+        10.0, -17.0, 0.0,
+        10.0, -17.0, 0.0,
+        0.0, -14.0, 0.0,
+        10.0, -14.0, 0.0,
+        10.0, -14.0,0.0,
+        10.0, -17.0,0.0,
+        12.0,-16.5, 0.0,
+        0.0, -17.0, 0.0,
+        0.0, -14.0, 0.0,
+        -2.0, -16.5, 0.0
     };
-    this->object[2] = create3DObject(GL_TRIANGLES, 2*3, vertex_buffer_data2, color, GL_FILL);
+    this->object[2] = create3DObject(GL_TRIANGLES, 4*3, vertex_buffer_data2, color, GL_FILL);
 
     GLfloat vertex_buffer_data3[] = {
-        0.0f,0.0f,0.0f, // triangle 1 : begin
-        0.0f,-10.0f, 0.0f,
-        3.0f, -10.0f, 0.0f, // triangle 1 : end
-        3.0f, -10.0f,0.0f, // triangle 2 : begin
-        0.0f,0.0f,0.0f,
-        3.0f, 0.0f,0.0f // triangle 2 : end
+        -4.0f,-4.0f,0.0f, // triangle 1 : begin
+        -4.0f,-14.0f, 0.0f,
+        -1.0f, -14.0f, 0.0f, // triangle 1 : end
+        -1.0f, -14.0f,0.0f, // triangle 2 : begin
+        -4.0f,-4.0f,0.0f,
+        -1.0f, -4.0f,0.0f,
+        -4.0, -4.0, 0.0,
+        -1.0, -4.0, 0.0,
+        -3.5, -2.0, 0.0,
+        -4.0, -14.0, 0.0,
+        -1.0, -14.0, 0.0,
+        -3.5, -16.0, 0.0 // triangle 2 : end
     };
-    this->object[3] = create3DObject(GL_TRIANGLES, 2*3, vertex_buffer_data3, color, GL_FILL);
+    this->object[3] = create3DObject(GL_TRIANGLES, 4*3, vertex_buffer_data3, color, GL_FILL);
 
     GLfloat vertex_buffer_data4[] = {
-        0.0f,10.0f,0.0f, // triangle 1 : begin
-        0.0f,0.0f, 0.0f,
-        3.0f, 0.0f, 0.0f, // triangle 1 : end
-        3.0f, 0.0f,0.0f, // triangle 2 : begin
-        0.0f,10.0f,0.0f,
-        3.0f, 10.0f,0.0f // triangle 2 : end
+        -4.0f,10.0f,0.0f, // triangle 1 : begin
+        -4.0f,0.0f, 0.0f,
+        -1.0f, 0.0f, 0.0f, // triangle 1 : end
+        -1.0f, 0.0f,0.0f, // triangle 2 : begin
+        -4.0f,10.0f,0.0f,
+        -1.0f, 10.0f,0.0f,
+        -4.0, 10.0, 0.0,
+        -1.0, 10.0, 0.0,
+        -3.5, 12.0, 0.0,
+        -4.0, 0.0, 0.0,
+        -1.0, 0.0, 0.0,
+        -3.5, -2.0, 0.0 // triangle 2 : end
     };
-    this->object[4] = create3DObject(GL_TRIANGLES, 2*3, vertex_buffer_data4, color, GL_FILL);
+    this->object[4] = create3DObject(GL_TRIANGLES, 4*3, vertex_buffer_data4, color, GL_FILL);
 
     GLfloat vertex_buffer_data5[] = {
-        0.0, 10.0, 0.0, 
+       0.0, 13.0, 0.0, 
+        0.0, 16.0, 0.0,
+        10.0, 13.0, 0.0,
+        10.0, 13.0, 0.0,
+        0.0, 16.0, 0.0,
+        10.0, 16.0, 0.0,
+        10.0, 16.0,0.0,
+        10.0, 13.0,0.0,
+        12.0,14.5, 0.0,
         0.0, 13.0, 0.0,
-        10.0, 10.0, 0.0,
-        10.0, 10.0, 0.0,
-        0.0, 13.0, 0.0,
-        10.0, 13.0, 0.0 // triangle 2 : end
+        0.0, 16.0, 0.0,
+        -2.0, 14.5, 0.0
     };
-    this->object[5] = create3DObject(GL_TRIANGLES, 2*3, vertex_buffer_data5, color, GL_FILL);
+    this->object[5] = create3DObject(GL_TRIANGLES, 4*3, vertex_buffer_data5, color, GL_FILL);
 
     GLfloat vertex_buffer_data6[] = {
-        0.0, 0.0, 0.0, 
-        0.0, 3.0, 0.0,
-        10.0, 0.0, 0.0,
-        10.0, 0.0, 0.0,
-        0.0, 3.0, 0.0,
-        10.0, 3.0, 0.0 // triangle 2 : end
+        0.0, -2.0, 0.0, 
+        0.0, 1.0, 0.0,
+        10.0, -2.0, 0.0,
+        10.0, -2.0, 0.0,
+        0.0, 1.0, 0.0,
+        10.0, 1.0, 0.0,
+        10.0, 1.0,0.0,
+        10.0, -2.0,0.0,
+        12.0,-1.5, 0.0,
+        0.0, -2.0, 0.0,
+        0.0, 1.0, 0.0,
+        -2.0, -1.5, 0.0
     };
-    this->object[6] = create3DObject(GL_TRIANGLES, 2*3, vertex_buffer_data6, color, GL_FILL);
+    this->object[6] = create3DObject(GL_TRIANGLES, 4*3, vertex_buffer_data6, color, GL_FILL);
 }
 
 void Display::draw(glm::mat4 VP, float zoom, int num) {
@@ -110,7 +152,7 @@ void Display::draw(glm::mat4 VP, float zoom, int num) {
     }
     
     num%=100;
-    this->position.x+=15;
+    this->position.x+=20;
     Matrices.model = glm::mat4(1.0f);
     translate = glm::translate (this->position);    // glTranslatef
     rotate    = glm::rotate((float) (this->rotation * M_PI / 180.0f), glm::vec3(1, 0, 0));
@@ -126,7 +168,7 @@ void Display::draw(glm::mat4 VP, float zoom, int num) {
     }
     
     num%=10;
-    this->position.x+=15;
+    this->position.x+=20;
     Matrices.model = glm::mat4(1.0f);
     translate = glm::translate (this->position);    // glTranslatef
     rotate    = glm::rotate((float) (this->rotation * M_PI / 180.0f), glm::vec3(1, 0, 0));
@@ -140,7 +182,7 @@ void Display::draw(glm::mat4 VP, float zoom, int num) {
     		draw3DObject(this->object[i]);
     	}
     }
-    this->position.x-=30;
+    this->position.x-=40;
     this->position.x*=zoom;
     this->position.y*=zoom;
 }

@@ -39,7 +39,7 @@ Display display;
 string metainfo;
 
 int GlobalPosn=0, currScore=0, Life=3, Level=1, NUM_OF_COINS=500, NUM_OF_FIXEDBEAMS=20, NUM_OF_MOVINGBEAMS=50, NUM_OF_DIAMONDS=100, NUM_OF_RINGS=14, onRing=0;
-int ticks_since_magnet_on=180, isBoomerang=0, isPiggy=0, isFlash=0, ticks_since_dragon_on=600, ringIndex;
+int ticks_since_magnet_on=300, isBoomerang=0, isPiggy=0, isFlash=0, ticks_since_dragon_on=600, ringIndex;
 float screen_zoom = 1, screen_center_x = 0, screen_center_y = 0;
 float camera_rotation_angle = 0;
 
@@ -105,35 +105,35 @@ void draw() {
     }
 
     // Magnet?
-    if(rand()%2000==0 && (ticks_since_magnet_on>=180 || ticks_since_magnet_on<=-180) && Level>=2){
+    if(rand()%2000==0 && ticks_since_magnet_on>=300 && Level>=2){
     	ticks_since_magnet_on=0;
-    	if(rand()%2==0){
-			magnet=Magnet(250, -250);
-			ticks_since_magnet_on++;
-			if(onRing==0){
-				ball1.speedx+=500.0/abs(ball1.position.x-250.0);    		
-			}
-    	}   
-    	else{
-    		magnet=Magnet(-250, -250);
-    		ticks_since_magnet_on--;
-    		if(onRing==0){
-    			ball1.speedx+=-500.0/abs(ball1.position.x+250.0);
-    		}
-    	}    	
+		magnet=Magnet((float)(rand()%500 - 210), (float)(rand()%400 - 130));    	
     }
-    else if(ticks_since_magnet_on<180 && ticks_since_magnet_on>-180){
-    	if(ticks_since_magnet_on>0){
-    		ticks_since_magnet_on++;
+    else if(ticks_since_magnet_on<300){
+    	ticks_since_magnet_on++;
+    	if(onRing==0 && abs(ball1.position.x-magnet.position.x)<=15 && abs(ball1.position.y-magnet.position.y)<=20){
+    		ball1.speedx=0;
+    		ball1.speed=0;
     	}
-    	else{
-    		ticks_since_magnet_on--;
-    	}
-    	if(abs(ticks_since_magnet_on)==180){
+        if(onRing==0){
+            if(ball1.position.x>magnet.position.x){
+                ball1.speedx-=2/max(abs(ball1.position.x-magnet.position.x), 15.0f);
+            }
+            else{
+                ball1.speedx+=2/max(abs(ball1.position.x-magnet.position.x), 15.0f);   
+            }
+            if(ball1.position.y>magnet.position.y){
+                ball1.speed+=10/max(abs(ball1.position.y-magnet.position.y), 15.0f);
+            }
+            else{
+                ball1.speed-=10/max(abs(ball1.position.y-magnet.position.y), 15.0f);   
+            }
+        }
+    	if(ticks_since_magnet_on==300){
     		ball1.speedx=0;
     	}
     	magnet.draw(VP);
-    }
+    } 
 
     if(rand()%(5000-10*currScore)==0 && ticks_since_dragon_on>=600 && Level>=3){
         ticks_since_dragon_on=0;
